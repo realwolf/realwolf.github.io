@@ -22,7 +22,7 @@ sass:
 
 # Site Data
 url: http://wildconnect.io
-baseurl: /blog
+baseurl: 
 title: wildconnect.io
 description: "wildconnect"
 keywords: 'blog'

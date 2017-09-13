@@ -21,11 +21,11 @@ sass:
   style: compressed
 
 # Site Data
-url: # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: # the subpath of your site, e.g. /blog
-title: Simple Texture
-description: "A gem-based responsive simple texture styled Jekyll theme."
-keywords: 'jekyll,theme,gem-based,blog'
+url: http://wildconnect.io
+baseurl: /blog
+title: wildconnect.io
+description: "wildconnect"
+keywords: 'blog'
 author:
   name:
   job_title:
@@ -35,7 +35,7 @@ author:
     - name: facebook
       url:
     - name: github
-      url: https://github.com/yizeng/jekyll-theme-simple-texture
+      url: 
     - name: instagram
       url:
     - name: linkedin
@@ -47,17 +47,17 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Simple Texutre</h1>
-  section2: <h2>A gem-based responsive simple texture styled Jekyll theme</h2>
-  section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+  section1: 
+  section2: 
+  section3: 
 blog:
-  cc_license: # A link to CC License of your choice, e.g. http://creativecommons.org/licenses/by-sa/4.0/.
-  cc_license_image: # An image of your CC License, e.g. /assets/images/theme/cc-by-sa.png
-  footer_content: A gem-based responsive simple texture styled Jekyll theme.
+  cc_license: https://creativecommons.org/licenses/by-nc-sa/4.0/
+  cc_license_image: /assets/images/theme/cc-by-nc-sa.png
+  footer_content: wildconnect.io
 
 disqus:
-  shortname:
-  public_key:
+  shortname:wildconnect
+  public_key:gbqLOzBpxXPycjL4FpFPqFPs0PdLHQQF8CJHheJpA2c1PE8yWJwQhPqNbPZGk3g3
 google_analytics:
 addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/
 
@@ -66,3 +66,4 @@ paths:
   blog: /blog/
   categories: /blog/categories/
   tags: /blog/tags/
+  

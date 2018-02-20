@@ -13,13 +13,13 @@ redirect_from:
 
 # Diff Viewer
 
-![diff viewer](2018-02-20-diff-viewer.png)
+![diff viewer](/blog/2018-02-20-diff-viewer.png)
 
 > "C:\Program Files\Devart\Code Compare\CodeCompare.exe" /SC=Git %base %mine
 
 
 # Merge Tool
 
-![merge tool](2018-02-20-merge-tool.png)
+![merge tool](/blog/2018-02-20-merge-tool.png)
 
 > "C:\Program Files\Devart\Code Compare\CodeMerge.exe" /TF=%theirs /MF=%mine /RF=%merged /BF=%base /REMOVEFILES

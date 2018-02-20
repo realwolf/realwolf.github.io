@@ -8,8 +8,10 @@ redirect_from:
   - /2017/09/08/
 ---
 
+
 * Kramdown table of contents
 {:toc .toc}
+
 
 # 1. Chocolatey
 
@@ -20,7 +22,6 @@ redirect_from:
 [https://chocolatey.org/install](https://chocolatey.org/install)
 
 
-<br>
 <br>
 
 
@@ -34,7 +35,6 @@ redirect_from:
 
 
 <br>
-<br>
 
 
 # 3. 업그레이드
@@ -47,7 +47,6 @@ redirect_from:
 
 
 <br>
-<br>
 
 
 # 3. 삭제
@@ -55,3 +54,12 @@ redirect_from:
 삭제와 관련해서는 공식사이트의 문서를 참고하시기 바랍니다.
 
 [https://chocolatey.org/docs/uninstallation](https://chocolatey.org/docs/uninstallation)
+
+
+<br>
+
+
+# 4. 설치할 수 있는 패키지 목록
+
+[https://chocolatey.org/packages](https://chocolatey.org/packages)
+

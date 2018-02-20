@@ -22,8 +22,6 @@ redirect_from:
 [https://chocolatey.org/install](https://chocolatey.org/install)
 
 
-<br>
-
 
 # 2. 설치
 
@@ -33,8 +31,6 @@ redirect_from:
 > Set-ExecutionPolicy AllSigned; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 ```
 
-
-<br>
 
 
 # 3. 업그레이드
@@ -46,20 +42,18 @@ redirect_from:
 ```
 
 
-<br>
 
-
-# 3. 삭제
+# 4. 삭제
 
 삭제와 관련해서는 공식사이트의 문서를 참고하시기 바랍니다.
 
 [https://chocolatey.org/docs/uninstallation](https://chocolatey.org/docs/uninstallation)
 
 
-<br>
 
-
-# 4. 설치할 수 있는 패키지 목록
+# 5. 설치할 수 있는 패키지 목록
 
 [https://chocolatey.org/packages](https://chocolatey.org/packages)
 
+
+<br>

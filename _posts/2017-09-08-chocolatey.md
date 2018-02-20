@@ -17,8 +17,6 @@ redirect_from:
 
 윈도우용 패키지 관리자입니다.
 
-공식 사이트
-
 [https://chocolatey.org/install](https://chocolatey.org/install)
 
 
@@ -51,7 +49,7 @@ redirect_from:
 
 
 
-# 5. 설치할 수 있는 패키지 목록
+# 5. 패키지 목록
 
 [https://chocolatey.org/packages](https://chocolatey.org/packages)
 

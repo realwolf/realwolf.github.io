@@ -21,10 +21,10 @@ sass:
   style: compressed
 
 # Site Data
-url: http://wildconnect.io
+url: http://firstcontect.com
 baseurl: 
-title: wildconnect.io
-description: "wildconnect"
+title: firstcontect.com
+description: "firstcontect"
 keywords: 'blog'
 author:
   name:
@@ -53,10 +53,10 @@ home:
 blog:
   cc_license: https://creativecommons.org/licenses/by-nc-sa/4.0/
   cc_license_image: /assets/images/theme/cc-by-nc-sa.png
-  footer_content: wildconnect.io
+  footer_content: firstcontect.com
 
 disqus:
-  shortname:wildconnect
+  shortname:firstcontect
   public_key:gbqLOzBpxXPycjL4FpFPqFPs0PdLHQQF8CJHheJpA2c1PE8yWJwQhPqNbPZGk3g3
 google_analytics:
 addthis_public_id: # AddThis sharing plugin. See http://www.addthis.com/
